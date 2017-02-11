@@ -10,3 +10,15 @@ Tier 2 - Raspberry Pi hosts a light server and pushes the data from Tier 1 to Ti
 Tier 3 - Client's main server that pulls data from Tier 2
 
 Tier 4 - Rapsberry Pi actuates a few solenoids based on the commands pulled from Tier 3
+
+The list of sensors used:
+
+GPS
+
+Loadcell
+
+Motion sensor
+
+switches
+
+and a few others
