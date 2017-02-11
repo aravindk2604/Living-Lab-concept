@@ -24,3 +24,4 @@ switches
 and a few others
 
 Testing the branch functionality in git.
+Making the branch stay and commit only to the branch and not the master.
