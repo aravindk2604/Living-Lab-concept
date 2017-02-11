@@ -22,3 +22,5 @@ Motion sensor
 switches
 
 and a few others
+
+Testing the branch functionality in git.
